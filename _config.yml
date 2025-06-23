@@ -16,10 +16,52 @@ timezone:
 
 title: Slap Battles But Studio Lite # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Poster #1 # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # 🎉 🚨 MASSIVE (Yes, HUGE!) UPDATE INCOMING to [Diamond Glove🪨] Slap Battles 👏 🎉
+
+Hey Slap Battlers! We’ve got INSANE news that’s about to rock the entire slap universe! 🌍💥
+After tons of effort, creativity, and testing, we’re finally ready to drop one of the BIGGEST UPDATES the game has ever seen! 😱💪
+The update will be releasing in 1–2 days, so get hyped, tell your friends, and prepare to SLAP harder than ever before! 👋🔥
+
+🧤 3 GLOVES ARE COMING – and they’re game changers!
+
+1️⃣ 💥 Overkill Glove – A brand-new glove packed with destructive force. It’s powerful, ruthless, and designed to dominate. Not for the faint of heart. 💣🔥
+
+2️⃣ 🌀 Error Glove – Another new addition, this one is wild and chaotic! Expect unpredictable effects and glitchy madness that can change the game instantly. ⚠️💫
+
+3️⃣ 🧱 Wall Glove (Reworked) – The classic Wall Glove is getting a full rework! New abilities, new visuals, and even more strategy. Build, block, and bamboozle your opponents! 🚧✨
+
+🛠️ Why Did It Take So Long?
+
+Because we wanted this to be PERFECT.
+We’ve worked day and night to balance, polish, and fine-tune every glove, every ability, and every slap. 🕹️💻
+This update is for YOU, the community — thank you for being patient! 💖
+
+🎁 FREE GIFTS for Followers!
+
+To show our appreciation, the owner is giving out gifts to players who follow him on Roblox! 🎉💝
+Make sure you're following before the update drops to get yours:
+
+👤 Follow: NotPelowXD
+
+⭐ Support the Game!
+
+If you're excited for the update and love what we’re doing, don’t forget to:
+
+👍 LIKE the game
+⭐ FAVORITE the game
+👥 JOIN our official Roblox group for news, events, and giveaways!
+
+Every bit of support helps us keep creating awesome content for you all! 🙌
+
+📅 Update Releases In:
+⏳ 1–2 Days – stay tuned and keep slapping!
+
+🔥 Thanks again for playing [Diamond Glove🪨] Slap Battles 👏 – we can't wait for you to try out the new gloves!
+More surprises are coming soon… 👀
+
+Stay awesome, stay slappy! 👋💎
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,8 +70,8 @@ url: ""
 github:
   username: DreamStudio # change to your GitHub username
 
-twitter:
-  username: None # change to your Twitter username
+Roblox:
+  username: NotPelowXD # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,15 +80,6 @@ social:
   links:
     #
     - https://www.roblox.com/communities/35389227/Slap-Battles-But-Studio-Lite#!/about # change to your Twitter homepag
-
-# Site Verification Settings
-webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
-  alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
-  baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
